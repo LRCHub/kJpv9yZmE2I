@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "Sing-a-Long",
+  "base_artist": "DISH//",
+  "createdAt": "2026-02-09T19:28:01.155859Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sing-A-Long",
+      "artist": "Tau",
+      "has_synced": false,
+      "path": "select/01_Sing-A-Long_Tau.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Everything Is AWESOME!!! (Instrumental Sing-A-Long)",
+      "artist": "Mark Mothersbaugh",
+      "has_synced": false,
+      "path": "select/02_Everything_Is_AWESOME!!!_(Instrumental_Sing-A-Long)_Mark_Mothersbaugh.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SING-A-LONG feat.アイナ・ジ・エンド(BiSH)",
+      "artist": "DISH//",
+      "has_synced": false,
+      "path": "select/pl_01_SING-A-LONG_feat.アイナ・ジ・エンド(BiSH)_DISH.txt"
+    }
+  ]
+}
